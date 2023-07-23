@@ -1,0 +1,1 @@
+__all__ = ['task1', 'task4', 'task5', 'task6', 'task7']
